@@ -1,7 +1,6 @@
 # Dockett – SaaS Landing Page
 
-Dockett is a responsive landing page for an invented SaaS product that helps small online stores track shipments, send delivery updates and handle returns.
-Live demo: https://ubiquitous-sfogliatella-4179b9.netlify.app/
+Landing page for **Dockett**, an invented SaaS that tracks shipments and handles returns for small online stores. Built for the Sankar Group front-end internship assignment.
 
 ## Run locally
 No build step. Open `index.html` in a browser.
@@ -19,3 +18,14 @@ HTML5, CSS3 (Grid, Flexbox, custom properties) and vanilla JavaScript.
 `index.html` structure · 
 `style.css` styling and responsive rules · 
 `script.js` interactions
+
+## Screenshots
+
+**Desktop**
+
+![Desktop view](Screenshots/home.png)
+![Desktop view](Screenshots/pricing.png)
+
+**Mobile**
+
+![Mobile view](Screenshots/mobile.png)
