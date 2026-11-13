@@ -11,9 +11,9 @@ HTML5, CSS3 (Grid, Flexbox, custom properties) and vanilla JavaScript.
 
 ## Features
 - Sticky navbar with smooth-scroll links and a mobile menu
-- Hero with a working tracking demo (try `DKT1042`, `DKT2077`, `DKT3150`)
+- Hero with a working tracking demo 
 - Features, How it works, Pricing (monthly/yearly toggle), Contact form, Footer
-- Demo form with validation and a success message (no backend)
+- Demo form with validation and a success message
 
 ## Files
 `index.html` structure · 
