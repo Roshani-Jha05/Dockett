@@ -1,9 +1,10 @@
 # Dockett – SaaS Landing Page
 
-Landing page for **Dockett**, an invented SaaS that tracks shipments and handles returns for small online stores. Built for the Sankar Group front-end internship assignment.
+Landing page for **Dockett**, an invented SaaS that tracks shipments and handles returns for small online stores.<br>
+Live link: https://ubiquitous-sfogliatella-4179b9.netlify.app/
 
 ## Run locally
-No build step. Open `index.html` in a browser.
+No build step. Clone the repository and open `index.html` in a browser.
 
 ## Technologies
 HTML5, CSS3 (Grid, Flexbox, custom properties) and vanilla JavaScript.
