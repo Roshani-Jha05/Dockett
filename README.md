@@ -22,11 +22,11 @@ HTML5, CSS3 (Grid, Flexbox, custom properties) and vanilla JavaScript.
 
 ## Screenshots
 
-**Desktop**
+**Desktop View**
 
 ![Desktop view](Screenshots/home.png)
 ![Desktop view](Screenshots/pricing.png)
 
-**Mobile**
+**Mobile View**
 
 ![Mobile view](Screenshots/mobile.png)
