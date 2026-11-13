@@ -1,6 +1,6 @@
 # Dockett – SaaS Landing Page
 
-Landing page for **Dockett**, an invented SaaS that tracks shipments and handles returns for small online stores.<br>
+Landing page for **Dockett**, an invented SaaS that tracks shipments and handles returns for small online stores.<br> 
 Live link: https://ubiquitous-sfogliatella-4179b9.netlify.app/
 
 ## Run locally
